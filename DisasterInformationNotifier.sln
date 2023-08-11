@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33711.374
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisasterInformationNotifier", "DisasterInformationNotifier\DisasterInformationNotifier.csproj", "{B3A30958-1E94-4E06-BE22-613C66CDD89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A30958-1E94-4E06-BE22-613C66CDD89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A30958-1E94-4E06-BE22-613C66CDD89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A30958-1E94-4E06-BE22-613C66CDD89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A30958-1E94-4E06-BE22-613C66CDD89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E30100-A8F6-42A5-BDF8-27ED5165665A}
+	EndGlobalSection
+EndGlobal
